@@ -2,3 +2,8 @@ body{
     background-color:white;
     color:black;
 }
+.d_head{
+    padding:5%;
+    margin-right: auto;
+    border: 1px solid black;
+}
