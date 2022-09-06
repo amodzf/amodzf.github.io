@@ -4,6 +4,9 @@ body{
 }
 .d_head{
     padding:5%;
-    margin: 0 auto;
+    margin: auto;
     border: 1px solid black;
+}
+#h-first{
+    margin:auto;
 }
