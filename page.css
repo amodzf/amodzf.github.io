@@ -8,5 +8,5 @@ body{
     border: 1px solid black;
 }
 #h-first{
-    margin-right:auto;
+    margin-right: 0 auto;
 }
